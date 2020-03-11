@@ -1,7 +1,10 @@
 linea1
 linea2
+<<<<<<< HEAD
 linea3
 linea4
 linea5
 
 
+=======
+>>>>>>> parent of bc7865a... Archivo 4 - Agregando linea 3
